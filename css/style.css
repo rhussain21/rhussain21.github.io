@@ -41,9 +41,9 @@ a {
   -webkit-transition: .3s all;
   -o-transition: .3s all;
   transition: .3s all;
-  color: #bac964; }
+  color: #58c767; }
   a:hover, a:focus, a:active {
-    color: #b2c251;
+    color: #58c767;
     text-decoration: none; }
 
 .parent-nav-link-padding, .site-navbar .navbar-nav > li > a {
@@ -561,7 +561,7 @@ a {
   list-style: none;
   margin-bottom: 20px; }
   .site-contact-details li > span {
-    color: #2c3e50;
+    color: #e6eaee;
     letter-spacing: .1em;
     font-size: 12px;
     font-weight: 500;
