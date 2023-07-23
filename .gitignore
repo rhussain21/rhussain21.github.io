@@ -1,0 +1,21 @@
+# .gitignore
+
+# Jekyll build directory
+/_site
+
+# Jekyll cache directory
+/.jekyll-cache
+/.jekyll-metadata
+
+# Bundler directory
+/vendor
+
+#Bootstrap directory
+/rezume-master
+/bootstrap
+
+# If you want to ignore the Gemfile.lock file, uncomment the next line
+#/Gemfile.lock
+
+# macOS .DS_Store files
+.DS_Store
