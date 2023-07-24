@@ -1,6 +1,12 @@
 
 
 
+#mobile-images-row img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%; /* Make the images perfect circles */
+}
 
 .about-image {
   width: 450px; /* Adjust the width and height as needed */
