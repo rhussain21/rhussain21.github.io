@@ -1,5 +1,12 @@
+.card-body {
+  color: #333; /* Dark grey color */
+  text-align: center;
+}
 
-
+.card-title {
+  color: #333; /* Dark grey color */
+  text-align: center;
+}
 
 #mobile-images-row img {
   width: 100px;
@@ -46,7 +53,7 @@
 
 body {
   background: #fff;
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(255, 255, 255, 0.600);
   background: #222;
   line-height: 1.7;
   font-size: 16px;
