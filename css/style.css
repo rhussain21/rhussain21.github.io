@@ -1,3 +1,10 @@
+.card-img-top {
+  width: 100%;      /* This ensures the image takes the full width of its container */
+  max-height: 200px;  /* Example height, adjust as needed */
+  object-fit: cover; /* This will ensure the image covers the container without stretching */
+}
+
+
 .card-body {
   color: #333; /* Dark grey color */
   text-align: center;
